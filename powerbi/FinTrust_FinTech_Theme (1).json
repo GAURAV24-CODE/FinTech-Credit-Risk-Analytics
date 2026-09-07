@@ -1,0 +1,104 @@
+{
+  "name": "FinTrust Lending - Professional FinTech",
+  "dataColors": [
+    "#2563EB",
+    "#16A34A",
+    "#DC2626",
+    "#172554",
+    "#0EA5E9",
+    "#F59E0B",
+    "#64748B",
+    "#7C3AED"
+  ],
+  "background": "#F5F7FA",
+  "foreground": "#172554",
+  "tableAccent": "#2563EB",
+  "good": "#16A34A",
+  "neutral": "#2563EB",
+  "bad": "#DC2626",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI",
+      "fontSize": 18,
+      "color": "#172554"
+    },
+    "callout": {
+      "fontFace": "Segoe UI",
+      "fontSize": 28,
+      "color": "#172554"
+    },
+    "header": {
+      "fontFace": "Segoe UI",
+      "fontSize": 12,
+      "color": "#172554"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#64748B"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 12,
+            "fontColor": {
+              "solid": {
+                "color": "#172554"
+              }
+            },
+            "bold": true,
+            "italic": false
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "visualHeader": [
+          {
+            "show": true
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "categoryLabels": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 10,
+            "color": {
+              "solid": {
+                "color": "#64748B"
+              }
+            }
+          }
+        ],
+        "calloutValue": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 26,
+            "color": {
+              "solid": {
+                "color": "#172554"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
