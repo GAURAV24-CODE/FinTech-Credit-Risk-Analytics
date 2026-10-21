@@ -3,7 +3,7 @@ import pandas as pd
 # UCI German Credit dataset
 file_path = "data/raw/german.data"
 
-# Column names based on the dataset structure
+# Column names based on the dataset struct
 columns = [
     "checking_account",
     "duration_months",
