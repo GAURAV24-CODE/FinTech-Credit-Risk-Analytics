@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-# -----------------------------
+# ------------------------
 # File paths
 # -----------------------------
 input_file = "data/raw/german.data"
