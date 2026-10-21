@@ -17,7 +17,7 @@ os.makedirs("data/raw", exist_ok=True)
 customer_id = [f"CUST{i:05d}" for i in range(1, N + 1)]
 loan_id = [f"LOAN{i:05d}" for i in range(1, N + 1)]
 
-# -----------------------------
+# --------------------------
 # 2. Borrower Information
 # -----------------------------
 age = np.random.randint(21, 66, N)
