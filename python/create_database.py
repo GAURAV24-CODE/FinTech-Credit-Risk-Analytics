@@ -12,7 +12,7 @@ os.makedirs("data/final", exist_ok=True)
 # Load cleaned data
 df = pd.read_csv(csv_file)
 
-# Create SQLite database
+# Create SQLite databa
 connection = sqlite3.connect(database_file)
 
 # Load dataframe into SQL table
