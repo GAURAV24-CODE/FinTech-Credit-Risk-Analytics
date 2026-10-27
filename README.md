@@ -10,7 +10,7 @@ This project analyzes the UCI Statlog German Credit Data dataset to uncover patt
 
 The analysis follows an end-to-end data analytics workflow:
 
-Python → Data Cleaning → EDA → SQL → Power BI → Business Insights
+Python → Data Cleaning → EDA → SQL → Power BI → Business Insight
 
 🎯 Business 
 
