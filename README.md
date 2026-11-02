@@ -1,6 +1,6 @@
 📊 FinTrust Lending — Credit Risk Analytics Platform
 
-An end-to-end credit risk analytics project using Python, SQL, and Power BI to analyze borrower and loan characteristics associated observed credit risk.
+An end-to-end credit risk analytics project using Python, SQL, and Power BI to analyze borrower and loan characteristics associated observed credit iskkkkkkkkkkkkkkkkkk
 
 📌 Project Overview
 
