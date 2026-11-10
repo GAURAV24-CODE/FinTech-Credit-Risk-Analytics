@@ -2,7 +2,7 @@
 
 An end-to-end credit risk analytics project using Python, SQL, and Power BI to analyze borrower and loan characteristics associated observed credit is ok
 
-📌 Project Overview
+📌 Project Overvi
 
 FinTrust Lending is a fictional digital lending company that wants to better understand its credit portfolio and identify borrower and loan characteristics associated with higher observed credit risk.
 
